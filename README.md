@@ -15,11 +15,17 @@ d.pcs.baidu.com/rest/2.0/pcs/file?method=streaming&app_id=③&path=②
 转码为流畅(不保证有效)d.pcs.baidu.com/rest/2.0/pcs/file?method=streaming&app_id=③&type=M3U8_AUTO_480&path=②
 
 可能需要修改ua(比如改成0)
+
 ①：266719是es的id 
+
 250528是百度云的id
+
 778750是百度云tv的id
+
 ②：文件的路径
+
 ③：必须使用百度的ID
+
 http://localhost:59777/pcs/百度ID@pcs/files/ 
 
 在手机上使用时，可以在打开es后使用这个端口试试
