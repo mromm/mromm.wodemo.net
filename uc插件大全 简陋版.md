@@ -6,36 +6,45 @@ http://tv.yun.uc.cn
 
 银联支付
 [1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/31)
-支付宝快捷支付
 
-[1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/32）
-[5.0.8](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/85）
-[5.1.0](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/158）
+支付宝快捷支付
+[1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/32)
+[5.0.8](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/85)
+[5.1.0](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/158)
+
 如意淘
-[1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/67）
-[1.010](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/72）
-[1.100](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/104）
+[1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/67)
+[1.010](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/72)
+[1.100](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/104)
+
 惠惠购物助手
-[1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/70）
+[1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/70)
 [1.010](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/73)
 [1.100](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/101)
+
 快递查询
 [1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/71)
 [1.100](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/179)
+
 [淘淘搜图搜
 [1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/74)
+
 [易查智能推荐
 [1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/90)
 [2.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/91)
+
 淘淘搜比价
 [1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/93)
 [1.100](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/126)
 [1.1.1](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/137)
 [1.2.2](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/149)
+
 Z秒杀助手
 [1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/94)
+
 购物党比价
 [1.0.2](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/95)
+
 
 
 
