@@ -7,6 +7,7 @@ http://tv.yun.uc.cn
 银联支付
 [1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/31)
 支付宝快捷支付
+
 [1.000](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/32）
 [5.0.8](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/85）
 [5.1.0](http://addon.uc.cn/?uc_param_str=dnfrpfbivesscpmintlaog&og=GR#!/info/158）
